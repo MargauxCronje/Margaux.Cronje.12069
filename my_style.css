@@ -1,0 +1,70 @@
+body {
+  background-image: url(images/background.jpg);
+  background-image-repeat: no-repeat;
+  background-attachment: fixed;
+  background-color: #000000;
+  width: 98%;
+  height: 98%; }
+
+#container_body {
+  margin: 0px auto 0px auto;
+  width: 990px;
+  height: auto; }
+
+nav {
+  width: 930px;
+  height: 105px;
+  padding: 30px 30px 30px 30px;
+  font-family: Verdana;
+  font-size: 24px;
+  color: #969696; }
+
+#logo {
+  float: left; }
+
+ul {
+  float: right;
+  list-style: none; }
+
+ul li {
+  display: inline;
+  padding: 0px 0px 0px 30px; }
+
+ul li:hover {
+  color: #ffffff; }
+
+a {
+  color: #969696;
+  text-decoration: none; }
+
+a:hover {
+  color: #ffffff;
+  text-decoration: underline; }
+
+table {
+  font-family: century gothic;
+  font-size: 18;
+  color: #ffffff;
+  width: 990px; }
+
+th {
+  background-color: rgba(255, 255, 255, 0.1);
+  font-family: century gothic;
+  font-size: 20;
+  color: #ffffff;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px; }
+
+table tr {
+  background-color: rgba(0, 0, 0, 0.5);
+  color: #ffffff; }
+
+td {
+  padding: 30px;
+  background-color: rgba(0, 0, 0, 0.4);
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px; }
+
+/*# sourceMappingURL=my_style.css.map */

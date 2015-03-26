@@ -1,0 +1,105 @@
+$nav: Junction Regular;
+$nav-select : #ffffff;
+$nav-deselect :#969696;
+$radius :10px;
+$radius2 :5px;
+
+
+$secondary-color : #5555B7;
+$light-back : #000000;
+$primary-back : rgba(255,255,255,0.1);
+$secondary-back :rgba(0,0,0,0.4);
+
+body {
+	background-image: url(images/background.jpg);
+	background-image-repeat: no-repeat;
+    background-attachment: fixed;
+	background-color:$light-back;
+	width: 98%;
+	height: 98%;
+}
+
+#container_body {
+	margin: 0px auto 0px auto;
+	width: 990px;
+	height: auto;
+}
+
+nav {
+	width: 930px;
+	height: 105px;
+	padding: 30px 30px 30px 30px;
+	font-family: Verdana;
+	font-size:24px;
+	color: $nav-deselect;
+}
+
+#logo {
+	float:left;
+}
+
+ul {
+	float:right;
+	list-style: none;
+}
+
+ul li {
+	display : inline;
+	padding: 0px 0px 0px 30px;
+}
+
+ul li:hover { 
+	color: $nav-select;
+}
+
+a {
+	color: $nav-deselect;
+	text-decoration: none;
+}
+
+a:hover {
+	color: $nav-select;
+	text-decoration: underline;
+}
+
+table {
+    font-family: century gothic;
+    font-size: 18;
+    color: $nav-select;
+    width: 990px;
+}
+
+th {
+    background-color: $primary-back;
+    font-family: century gothic;
+    font-size: 20;
+    color: $nav-select;
+    -webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+   
+}
+
+table tr {
+    background-color: rgba(0,0,0,0.5);
+    color: $nav-select;
+   
+}
+
+
+td {
+    padding: 30px;
+    background-color: $secondary-back;
+     -webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+    
+}
+
+
+
+
+
+
+
+

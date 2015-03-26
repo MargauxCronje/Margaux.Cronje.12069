@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><bookstore>
+   <book category="COMPUTER"><id>bk101</id><title lang="en">XML Developer's Guide</title><author>Gambardella, Matthew</author><author>Margaux, Cronje</author><year>2000</year><price>44.95</price></book>
+   <book category="FANTASY"><id>bk102</id><title lang="en">Midnight Rain</title><author>Ralls, Kim</author><year>2000</year><price>5.95</price></book>
+   <book category="FANTASY"><id>bk103</id><title lang="en">Maeve Ascendant</title><author>Corets, Eva</author><year>2000</year><price>5.95</price></book>
+   <book category="FANTASY"><id>bk104</id><title lang="en">Oberon's Legacy</title><author>Corets, Eva</author><year>2001</year><price>5.95</price></book>
+   <book category="FANTASY"><id>bk105</id><title lang="en">The Sundered Grail</title><author>Corets, Eva</author><year>2001</year><price>5.95</price></book>
+   <book category="ROMANCE"><id>bk106</id><title lang="en">Lover Birds</title><author>Randall, Cynthia</author><year>2000</year><price>4.95</price></book>
+   <book category="ROMANCE"><id>bk107</id><title lang="en">Splish Splash</title><author>Thurman, Paula</author><year>2000</year><price>4.95</price></book>
+   <book category="HORROR"><id>bk108</id><title lang="en">Creepy Crawlies</title><author>Knorr, Stefan</author><year>2000</year><price>4.95</price></book>
+   <book category="SCIENCE FICTION"><id>bk109</id><title lang="en">Paradox Lost</title><author>Kress, Peter</author><year>2000</year><price>6.95</price></book>
+   <book category="COMPUTER"><id>bk110</id><title lang="en">Microsoft .NET: The Programming Bible</title><author>O'Brien, Tim</author><year>2000</year><price>36.95</price></book>
+   <book category="COMPUTER"><id>bk111</id><title lang="en">MSXML3: A Comprehensive Guide</title><author>O'Brien, Tim</author><year>2000</year><price>36.95</price></book>
+   <book category="COMPUTER"><id>bk112</id><title lang="en">Visual Studio 7: A Comprehensive Guide</title><author>Galos, Mike</author><year>2001</year><price>49.95</price></book>
+</bookstore>
